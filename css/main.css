@@ -1,0 +1,46 @@
+
+.hero_top {
+   margin-bottom: 100px;
+   padding-top: 50px;
+}
+
+.title {
+   margin-bottom: 70px;
+}
+
+.btn__pockemon{
+   margin-right: 20px;
+   padding: 5px;
+   border-radius: 5px;
+}
+
+.btn__movies{
+   margin-right: 20px;
+   padding: 5px;
+   border-radius: 5px;
+}
+
+.btn__random{
+   margin-right: 20px;
+   padding: 5px;
+   border-radius: 5px;
+}
+
+.btn__clear{
+   border-radius: 5px;
+   padding: 5px 20px;
+}
+
+.list {
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   gap: 80px;
+}
+
+.list-li {
+   border: 2px solid black;
+   border-radius: 5px;
+   text-align: center;
+   width: 250px;
+}
